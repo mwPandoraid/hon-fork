@@ -1,3 +1,6 @@
+# DISCLAIMER
+This is a fork of [the original repo](https://github.com/Andre0512/hon), which as of the time of forking (06.02.2025) is unmaintained. This fork too, will be largely unmaintained. I will be merging patches that i consider useful into the main branch, but I cannot promise any sort of dedication.
+
 # Haier hOn
 [![hacs_badge](https://img.shields.io/badge/hacs-Default-41BDF5.svg)](https://hacs.xyz)
 [![GitHub](https://img.shields.io/github/license/Andre0512/hon?color=red)](https://github.com/Andre0512/hon/blob/main/LICENSE)
